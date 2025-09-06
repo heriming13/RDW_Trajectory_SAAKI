@@ -1,1 +1,15 @@
+cff-version: 1.2.0
+title: RDW_Trajectory_SAAKI
+message: If you use this code, please cite both the paper and this repository.
+type: software
+authors:
+  - family-names: Yang
+    given-names: Shudong
+  - family-names: He
+    given-names: Riming
+identifiers: []
+license: MIT
+repository-code: https://github.com/heriming13/RDW_Trajectory_SAAKI
+version: 0.1.0
+date-released: 2025-09-__
 
